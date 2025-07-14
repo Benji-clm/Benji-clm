@@ -1,5 +1,12 @@
-## Hi there 👋
-[![Benji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji-clm)](https://github.com/anuraghazra/github-readme-stats)
+# Welcome!
+
+Electronic and Information (Computer Engineering) student at Imperial College London with a passion for developing hardware acceleration, low-latency computing and building high-performance digital systems.
+
+## Quick Stats
+
+![Benji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji-clm&show_icons=true&theme=radical&hide_rank=true&hide=issues,stars)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji-clm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Benji-clm/Benji-clm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
