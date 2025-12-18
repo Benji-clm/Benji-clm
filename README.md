@@ -15,9 +15,9 @@ Electronic and Information (Computer Engineering) student at Imperial College Lo
 <br>
 
 <p align="center">
-  <a href="https://github.com/Benji-clm">
-    <img src="https://github-readme-stats-blush-omega-51.vercel.app/api?username=Benji-clm&show_icons=true&theme=tokyonight" />
-  </a>
+  <!-- <a href="https://github.com/Benji-clm">
+    <img src="https://github-readme-stats-blush-omega-51.vercel.app/api?username=Benji-clm&show_icons=true&theme=tokyonight&cache_seconds=10&count_private=true" />
+  </a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-blush-omega-51.vercel.app/api/top-langs/?username=Benji-clm&theme=tokyonight" />
