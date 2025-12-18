@@ -35,3 +35,13 @@ Electronic and Information (Computer Engineering) student at Imperial College Lo
     <img src="https://github-readme-stats-blush-omega-51.vercel.app/api/pin/?username=Benji-clm&repo=Dura_Lex_Compiler&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Benji-clm/icl-ee-past-papers">
+    <img src="https://github-readme-stats-blush-omega-51.vercel.app/api/pin/?username=Benji-clm&repo=RISC-V-T15&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Benji-clm/Dura_Lex_Compiler">
+    <img src="https://github-readme-stats-blush-omega-51.vercel.app/api/pin/?username=Benji-clm&repo=icl-ee-past-papers&theme=tokyonight" />
+  </a>
+</p>
