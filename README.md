@@ -15,7 +15,6 @@ Electronic and Information (Computer Engineering) student at Imperial College Lo
 <br>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-blush-omega-51.vercel.app/api/top-langs/?username=Benji-clm&layout=compact&theme=solarizedLight" alt="Top Languages" />
   </a>
 </p>
